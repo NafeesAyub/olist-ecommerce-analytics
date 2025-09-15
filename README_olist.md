@@ -148,20 +148,4 @@ On Kaggle, attach the dataset via **Add data**. Locally, files are read from `..
 - (Optional) Customer retention cohort heatmap
 - All figures saved to `visuals/
 
-`
 
----
-
-## Deliverables (for portfolio)
-- Clear KPI visuals and category insights (PNG)
-
-- Short insights section for README/Kaggle/Upwork
-- Clean code and reproducible steps
-
-
-
----
-
-## License
-- **Code:** MIT (or your choice)
-- **Data:** As per Kaggle dataset terms
