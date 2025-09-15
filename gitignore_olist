@@ -1,0 +1,12 @@
+# Keep large/raw data out of git
+data/
+# Jupyter/cache
+.ipynb_checkpoints/
+__pycache__/
+# OS cruft
+.DS_Store
+# Envs
+.env
+.venv/
+# Models/artifacts (if any later)
+models/
